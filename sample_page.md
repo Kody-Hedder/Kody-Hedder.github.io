@@ -24,4 +24,4 @@ The ratio that was used was to compare high visibility/low defensibility (symbol
 
 <p align="justify">Limitations of this study are landscape modification, dating issues, impedance factors which were not taken into consideration for this study which could have provided more valuable information to this research.</p>
 
-For more details see [Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications](pdf/Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications.pdf).
+For more details see [Visibility vs Defensibility: Spatial analysis of pre-colonial Maori fortifications](pdf/Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications.pdf).
