@@ -1,5 +1,5 @@
 ### Garbage disposal and recycling issues based on the contemporary application of human paleoecology
-
+<div align="justify">
 Contemporary societies are running out of space to put their rubbish bringing up question on how rubbish will be removed in the future. 
 
 Efficient disposal is not always completely compatible with other desirable social ends.
@@ -16,3 +16,4 @@ Tailoring urban design strategies to mitigate further environment degradation du
 
 
 For more information see [Garbage disposal and recycling issues.pdf](pdf/Garbage Disposal and Recycling Issues2 (1).pdf)
+</div>
