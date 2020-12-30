@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Main Projects 
 
-[Project 1 Title](/sample_page)
+[Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications.](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[The Great Moose Hunt](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Optimising transport corridors using network analysis](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Secondary Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
