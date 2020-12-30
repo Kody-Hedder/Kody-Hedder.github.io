@@ -21,7 +21,7 @@
 
 - [Map of Ethnicities](map_of_ethnicities.md)
 - [Garbage disposal and recycling issues](Garbage and recycling issues.md)
-- [Seminar on least-cost paths](pdf/Seminar.pptx)
+<!-- [Seminar on least-cost paths](pdf/Seminar.pptx) -->
 
 
 ---
