@@ -11,7 +11,7 @@ Results of these tests found material thought to be readily biodegradable persis
 Archaeological applications can therefore inform policy makers on the effects human activities have on the landscape. Changing policies to focus back on the human-environment relationship will slowly start changing human behaviours to reduce drastic changes of the landscape.
 
 Tailoring urban design strategies to mitigate further environment degradation due to human behaviour and encourage sustainable development.
-
+</div>
 
 For more information see [Garbage disposal and recycling issues.pdf](pdf/Garbage Disposal and Recycling Issues2 (1).pdf)
-</div>
+
