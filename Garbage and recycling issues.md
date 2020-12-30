@@ -1,6 +1,5 @@
 ### Garbage disposal and recycling issues based on the contemporary application of human paleoecology
 
-<div align="justify">
 Contemporary societies are running out of space to put their rubbish bringing up question on how rubbish will be removed in the future. 
 
 Efficient disposal is not always completely compatible with other desirable social ends.
@@ -14,6 +13,6 @@ Results of these tests found material thought to be readily biodegradable persis
 Archaeological applications can therefore inform policy makers on the effects human activities have on the landscape. Changing policies to focus back on the human-environment relationship will slowly start changing human behaviours to reduce drastic changes of the landscape.
 
 Tailoring urban design strategies to mitigate further environment degradation due to human behaviour and encourage sustainable development.
-</div>
+
 
 [Garbage disposal and recycling issues.pdf](pdf/Garbage Disposal and Recycling Issues2 (1).pdf)
