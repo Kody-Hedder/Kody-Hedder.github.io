@@ -23,5 +23,4 @@ Results showed the functionality of New Zealand hill forts and how these structu
 
 Limitations of this study are landscape modification, dating issues, impedance factors which were not taken into consideration for this study which could have provided more valuable information to this research. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-(pdf/Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications.pdf)
+For more details see [Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications](https://github.com/Kody-Hedder/Kody-Hedder.github.io/blob/master/pdf/Visibility%20vs%20Defensibility%20Spatial%20analysis%20of%20pre-colonial%20Maori%20fortifications.pdf).
