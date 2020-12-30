@@ -4,16 +4,16 @@
 
 ### Main Projects 
 
-[Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications.](/sample_page)
+[Visibility vs Defensibility: Spatial analysis of pre-colonial Maori fortifications.](/sample_page)
 <img src="images/pa_picture.png?raw=true"/>
 
 ---
-[The Great Moose Hunt](/pdf/sample_presentation.pdf)
+[The Great Moose Hunt](pdf/The Great Moose Hunt (1).pdf)
 <img src="images/bull-moose-water.jpg?raw=true"/>
 
 ---
-[Optimising transport corridors using network analysis](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Optimising transport corridors using network analysis](pdf/Kody-Proper (1).pdf)
+<img src="images/Capture.JPG?raw=true"/>
 
 ---
 
