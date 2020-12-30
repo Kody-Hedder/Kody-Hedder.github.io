@@ -1,4 +1,4 @@
-### <p align="center">Visibility vs Defensibility Spatial analysis of pre-colonial Maori fortifications</p>
+### <p align="center">Visibility vs Defensibility: Spatial analysis of pre-colonial Maori fortifications</p>
 
 **Project description:** 
 <p align="justify">Prehistoric Maori fortifications are a prevalent piece in many of New Zealand’s landscapes. Built usually in elevated areas, the sites maximise the natural defences of the topography. The function of pā has been predominately seen as defensive sites however their function is not truly understood (Davidson, 1984). Using GIS analyses, an investigation will be launched to contribute to the growing body of literature surrounding Maori pā and propose an alternative function. Results indicate that defence was of greater concern than needing to be seen within the landscape but some areas do indicate that visibility was of greater concern.</p> 
